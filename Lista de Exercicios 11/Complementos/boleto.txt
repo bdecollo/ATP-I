@@ -1,0 +1,5 @@
+Boleto - Pedido da Lanchonete
+
+BatataFrita x2 = R$ 14.00
+
+Total a pagar: R$ 14.00
